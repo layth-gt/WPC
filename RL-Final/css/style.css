@@ -1,0 +1,19 @@
+section {
+    margin: auto;
+}
+div#one {
+    width: 40%;
+    float: left;
+}
+div#two {
+    margin-left: 40%;
+    height: 800px;
+    background: rgb(158, 158, 158);
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    
+}
